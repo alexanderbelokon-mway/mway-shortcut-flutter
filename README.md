@@ -24,7 +24,7 @@ Kontakt für technische Rückfragen: alexander.belokon@mway.io
 
 <br>
 
-# Server Spezifikationen
+# Server-Spezifikationen
 
 Server-Adresse: http://3.67.135.138:3000/
 
